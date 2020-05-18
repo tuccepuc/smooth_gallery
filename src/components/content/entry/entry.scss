@@ -1,0 +1,66 @@
+.entry
+{
+    position: fixed;
+    display: block;
+    
+    // background-color: red;
+
+    width: 100%;
+    top: 0;
+}
+
+.entry-wrapper
+{
+    position: relative;
+    display: block;
+
+    left:0;
+    right: 0;
+
+    margin: auto;
+
+    width: 35vw;
+    min-width: 400px;
+
+    // background-color: green;
+
+    &-image
+    {
+        display: block;
+        position: relative;
+
+        width: 35vw;
+        min-width: 400px;
+        max-width: 585px;
+        height: auto;
+        
+        left: 0;
+        right: 0;
+
+        margin: auto auto;
+
+        background-color: #121212;
+    }
+
+    &-mask
+    {
+        display: block;
+        position: absolute;
+
+        width: 35vw;
+        min-width: 400px;
+        max-width: 585px;
+        height: auto;
+        
+        top: 0;
+        left: 0;
+        right: 0;
+
+        margin: auto auto;
+
+        opacity: 0;
+        z-index: 1;
+
+        background-color: #fff;
+    }
+}

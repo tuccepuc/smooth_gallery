@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12028a6f.chunk.css",
+    "main.js": "/static/js/main.c60974b3.chunk.js",
+    "main.js.map": "/static/js/main.c60974b3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0635008f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0635008f.js.map",
+    "static/js/2.8e4d4793.chunk.js": "/static/js/2.8e4d4793.chunk.js",
+    "static/js/2.8e4d4793.chunk.js.map": "/static/js/2.8e4d4793.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.31c45580ab7ec01cc830b100a12dc8a0.js": "/precache-manifest.31c45580ab7ec01cc830b100a12dc8a0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.12028a6f.chunk.css.map": "/static/css/main.12028a6f.chunk.css.map",
+    "static/js/2.8e4d4793.chunk.js.LICENSE.txt": "/static/js/2.8e4d4793.chunk.js.LICENSE.txt",
+    "static/media/arla.png": "/static/media/arla.0e50c740.png",
+    "static/media/bolcom.png": "/static/media/bolcom.41d05a31.png",
+    "static/media/chocomel.png": "/static/media/chocomel.92d76cf9.png",
+    "static/media/cover.png": "/static/media/cover.1490dfcd.png",
+    "static/media/florensis.png": "/static/media/florensis.1490dfcd.png",
+    "static/media/gemeentemuseum.png": "/static/media/gemeentemuseum.9a423c05.png",
+    "static/media/jbl.png": "/static/media/jbl.bc82d0c3.png",
+    "static/media/kempen.png": "/static/media/kempen.c7d53036.png",
+    "static/media/koninklijke-bibliotheek.png": "/static/media/koninklijke-bibliotheek.db6279dc.png",
+    "static/media/liberty-global.png": "/static/media/liberty-global.020d7b9e.png",
+    "static/media/lightning.png": "/static/media/lightning.afb4335e.png",
+    "static/media/philips.png": "/static/media/philips.8b8c6dd3.png",
+    "static/media/index.css": "/static/media/teko-semibold-webfont.f3a934f8.woff2",
+    "static/media/tui.png": "/static/media/tui.8df778c3.png",
+    "static/media/zalando.png": "/static/media/zalando.7b01c8ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0635008f.js",
+    "static/js/2.8e4d4793.chunk.js",
+    "static/css/main.12028a6f.chunk.css",
+    "static/js/main.c60974b3.chunk.js"
+  ]
+}

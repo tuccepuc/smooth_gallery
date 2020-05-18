@@ -1,0 +1,72 @@
+body {
+	margin: 0;
+	
+	font-family: "Teko Regular";
+	font-size: 0px;
+	color: #ffffff;
+
+	overflow: hidden;
+
+	user-select: none;
+	overscroll-behavior-x: none;
+	overscroll-behavior-y: contain;
+
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+div {
+	box-sizing: border-box;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+		monospace;
+}
+
+h1, h2, h3
+{
+	margin: 0;
+}
+
+h1
+{
+	font-family: "Teko Bold";
+	font-size: 100vh;
+}
+
+h3
+{
+	font-family: "Teko Semi";
+	font-size: 40px;
+}
+
+@font-face {
+	font-family: "Teko Bold";
+	src: url("./assets/fonts/teko-bold-webfont.woff2") format("woff2"),
+		 url("./assets/fonts/teko-bold-webfont.woff") format("woff");
+}
+	
+@font-face {
+			 font-family: "Teko Semi";
+	src: url("./assets/fonts/teko-semibold-webfont.woff2") format("woff2"),
+		 url("./assets/fonts/teko-semibold-webfont.woff") format("woff");
+}
+	
+@font-face {
+	font-family: "Teko Medium";
+	src: url("./assets/fonts/teko-medium-webfont.woff2") format("woff2"),
+		 url("./assets/fonts/teko-medium-webfont.woff") format("woff");
+}
+
+@font-face {
+	font-family: "Teko Regular";
+	src: url("./assets/fonts/teko-regular-webfont.woff2") format("woff2"),
+		 url("./assets/fonts/teko-regular-webfont.woff") format("woff");
+}
+
+@font-face {
+	font-family: "Teko Light";
+	src: url("./assets/fonts/teko-light-webfont.woff2") format("woff2"),
+		 url("./assets/fonts/teko-light-webfont.woff") format("woff");
+}
