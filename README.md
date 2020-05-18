@@ -10,7 +10,7 @@ Smooth Scroll Gallery React/Redux
 - Refs + GSAP
 - Dirty tricks
 - Sassy with a touch of BEM
-- Simple Reducer logic
+- Simple Redux/Reducer logic
 - Desktop only
 
 # TODOS:
